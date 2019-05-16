@@ -1,0 +1,68 @@
+C:\Users\berka\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\berka\source\repos\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\berka\source\repos\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.csprojResolveAssemblyReference.cache
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.Musterilistele.resources
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.MusteriEkle.resources
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.Cache
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.Hesap_Ac.resources
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.HesapGoruntule.resources
+C:\Users\berka\source\repos\Deneme\Deneme\obj\Debug\Deneme.ParaIslemForm.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\Mustafa\Desktop\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\Mustafa\Desktop\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.Hesap_Ac.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.HesapGoruntule.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.Musterilistele.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.MusteriEkle.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.ParaIslemForm.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.HesapSilme.resources
+C:\Users\Mustafa\Desktop\Deneme\Deneme\obj\Debug\Deneme.HavaleIslem.resources
+C:\Users\Toshiba\Desktop\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Toshiba\Desktop\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Toshiba\Desktop\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.HavaleIslem.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.Hesap_Ac.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.HesapGoruntule.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.HesapSilme.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.Musterilistele.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.MusteriEkle.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.ParaIslemForm.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Üniversite\2.Sınıf\1.Dönem\Nesneye Yönelik Programlama\Banka Otomasyonu Ödev\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.HavaleIslem.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.Hesap_Ac.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.HesapGoruntule.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.HesapSilme.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.Musterilistele.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.MusteriEkle.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.ParaIslemForm.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Toshiba\Desktop\Yeni klasör\Deneme\Deneme\obj\Debug\Deneme.pdb
